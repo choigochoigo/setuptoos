@@ -2,15 +2,15 @@ import setuptools
 
 setuptools.setup(
     include_package_data = True,
-    name = 'calc2243336',
-    version = '0.0.2',
+    name = 'setuptoos',
+    version = '0.0.1',
     description = 'calc example for Pypi',
-    author = 'SangKyunJeon',
-    author_email = 'sangkyun.jeon@gmail.com',
-    url = 'https://github.com/jsk0910/calc2243336',
-    download_url = 'https://github.com/jsk0910/calc2243336/archive/refs/tags/v.0.0.2.zip',
+    author = 'taegyeomha',
+    author_email = 'htk00524@gmail.com',
+    url = 'https://github.com/choigochoigo/setuptoos',
+    download_url = 'https://github.com/choigochoigo/setuptoos/archive/refs/tags/v.0.0.1.zip',
     install_requires = ['pytest'],
-    packages = ['mycalc'],
+    packages = ['setuptoos'],
     long_description = 'oss-dev calculator example',
     long_description_content_type = 'text/markdown',
     classifiers = [
